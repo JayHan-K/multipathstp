@@ -1,6 +1,8 @@
 # multipathstp
 
-A new Flutter application.
+JayHan Side Project
+
+- Shortest Path for Multi Path Situation
 
 ## Getting Started
 
